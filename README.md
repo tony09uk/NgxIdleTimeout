@@ -1,5 +1,9 @@
 # NgxIdleTimeout
 
+![npm](https://img.shields.io/npm/v/ngx-idle-timeout)
+![npm](https://img.shields.io/npm/dt/ngx-idle-timeout)
+![NPM](https://img.shields.io/npm/l/ngx-idle-timeout)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
 ## Development server
