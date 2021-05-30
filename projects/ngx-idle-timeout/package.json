@@ -1,6 +1,29 @@
 {
   "name": "ngx-idle-timeout",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "A Self-contained, timeout that provides integrated countdown timer for angular applications",
+  "keywords": [
+    "timer",
+    "timeout",
+    "time-out",
+    "countdown",
+    "countdown-timer",
+    "ui",
+    "component",
+    "angular",
+    "ng",
+    "ngx"
+  ],
+  "author": "Tony Simpson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tony09uk/NgxIdleTimeout"
+  },
+  "bugs": {
+    "url": "https://github.com/tony09uk/NgxIdleTimeout/issues"
+  },
+  "homepage": "https://github.com/tony09uk/NgxIdleTimeout#readme",
   "peerDependencies": {
     "@angular/common": "^11.0.9",
     "@angular/core": "^11.0.9"
